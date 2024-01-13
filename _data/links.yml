@@ -6,3 +6,7 @@
 
     - title: 인도네시아
       url: https://www.webtoons.com/id/romance/iseops-romance/list?title_no=5660
+- category: Contact
+  items:
+    - title: Business Email
+      url: mailto:test@gmail.com?Subject=Email%20Title
