@@ -1,13 +1,11 @@
-- category: Blogs
+- category: Webtoon
   items:
-    - title: Example
-      url: https://www.example.com
-      icon: ri:film-fill # Icons are optional.
+    - title: 한국
+      url: https://naver.me/xmPThSNK
       tag: New
 
-    - title: Example 2
-      url: https://www.example.org
-      icon: simple-icons:googlenews
+    - title: 인도네시아
+      url: https://www.webtoons.com/id/romance/iseops-romance/list?title_no=5660
 
 - category: Products
   items:
