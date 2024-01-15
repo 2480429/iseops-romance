@@ -27,4 +27,4 @@
 - category: Contact
   items:
     - title: Business Email
-      url: mailto:dl_webtoon_mbiz@webtoonscorp.com,?Subject=[이섭의연애]%20사업문의&&cc=m1109071@naver.com
+      url: mailto:dl_webtoon_mbiz@webtoonscorp.com?Subject=[이섭의연애]%20사업문의&&cc=m1109071@naver.com
