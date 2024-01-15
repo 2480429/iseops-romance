@@ -1,19 +1,19 @@
 - name: YouTube Shorts
   ratio: vertical # For vertical 9:16 aspect ratio. Ideal for video thumbnails, such as those used on Instagram Reels, YouTube Shorts and TikTok. To use the default 1:1 aspect ratio (square), remove this variable.
   items:
-    - url: https://youtu.be/CX0nVnQYrHo?si=6qPZA2QUokQNkl-N
+    - url: https://raw.githubusercontent.com/2480429/iseops-romance/main/assets/images/image6.png
       image: assets/images/image6.png
-    - url: https://youtu.be/CX0nVnQYrHo?si=6qPZA2QUokQNkl-N
+    - url: https://raw.githubusercontent.com/2480429/iseops-romance/main/assets/images/image5.png
       image: assets/images/image5.png
-    - url: https://youtu.be/CX0nVnQYrHo?si=6qPZA2QUokQNkl-N
+    - url: https://raw.githubusercontent.com/2480429/iseops-romance/main/assets/images/image3.png
       image: assets/images/image3.png
 
 - name: YouTube Shorts
   ratio: vertical # For vertical 9:16 aspect ratio. Ideal for video thumbnails, such as those used on Instagram Reels, YouTube Shorts and TikTok. To use the default 1:1 aspect ratio (square), remove this variable.
   items:
-    - url: https://youtu.be/CX0nVnQYrHo?si=6qPZA2QUokQNkl-N
+    - url: https://raw.githubusercontent.com/2480429/iseops-romance/main/assets/images/image1.png
       image: assets/images/image1.png
-    - url: https://youtu.be/CX0nVnQYrHo?si=6qPZA2QUokQNkl-N
+    - url: https://raw.githubusercontent.com/2480429/iseops-romance/main/assets/images/image2.png
       image: assets/images/image2.png
-    - url: https://youtu.be/CX0nVnQYrHo?si=6qPZA2QUokQNkl-N
+    - url: https://raw.githubusercontent.com/2480429/iseops-romance/main/assets/images/image4.png
       image: assets/images/image4.png
