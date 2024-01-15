@@ -1,11 +1,29 @@
 - category: Webtoon
   items:
-    - title: 한국
+    - title: 한국어
       url: https://naver.me/xmPThSNK
-      tag: New
 
-    - title: 인도네시아
+    - title: 영어 English
+      url: https://m.webtoons.com/en/romance/iseops-romance/list?title_no=5753
+
+    - title: 일본어 日本語
+      url: https://manga.line.me/product/periodic?id=Z0003142
+
+    - title: 인니어 bahasa Indonésia
       url: https://www.webtoons.com/id/romance/iseops-romance/list?title_no=5660
+
+    - title: 태국어 ภาษาไทย
+      url: https://www.webtoons.com/th/romance/iseops-romance/list?title_no=5668
+
+    - title: 중문(간체) 中文
+      url: https://www.dongmanmanhua.cn/LOVE/lixiedelianai/list?title_no=2627
+
+    - title: 중문(번체) 漢語
+      url: https://www.webtoons.com/zh-hant/romance/iseops-romance/list?title_no=5692
+
+    - title: 프랑스어 français
+      url: https://www.webtoons.com/fr/romance/iseops-romance/list?title_no=6042
+
 - category: Contact
   items:
     - title: Business Email
