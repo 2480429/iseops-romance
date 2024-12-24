@@ -1,29 +1,5 @@
 - name: YouTube Shorts
   ratio: vertical # For vertical 9:16 aspect ratio. Ideal for video thumbnails, such as those used on Instagram Reels, YouTube Shorts and TikTok. To use the default 1:1 aspect ratio (square), remove this variable.
   items:
-    - url: https://raw.githubusercontent.com/2480429/iseops-romance/main/assets/images/image6.png
-      image: assets/images/th_image6.png
-    - url: https://raw.githubusercontent.com/2480429/iseops-romance/main/assets/images/image5.png
-      image: assets/images/th_image5.png
-    - url: https://raw.githubusercontent.com/2480429/iseops-romance/main/assets/images/image3.png
-      image: assets/images/th_image3.png
-
-- name: YouTube Shorts
-  ratio: vertical # For vertical 9:16 aspect ratio. Ideal for video thumbnails, such as those used on Instagram Reels, YouTube Shorts and TikTok. To use the default 1:1 aspect ratio (square), remove this variable.
-  items:
-    - url: https://raw.githubusercontent.com/2480429/iseops-romance/main/assets/images/image1.png
-      image: assets/images/th_image1.png
-    - url: https://raw.githubusercontent.com/2480429/iseops-romance/main/assets/images/image2.png
-      image: assets/images/th_image2.png
-    - url: https://raw.githubusercontent.com/2480429/iseops-romance/main/assets/images/002.png
-      image: assets/images/th_002.png
-
-- name: YouTube Shorts
-  ratio: vertical # For vertical 9:16 aspect ratio. Ideal for video thumbnails, such as those used on Instagram Reels, YouTube Shorts and TikTok. To use the default 1:1 aspect ratio (square), remove this variable.
-  items:
-    - url: https://raw.githubusercontent.com/2480429/iseops-romance/main/assets/images/001.png
-      image: assets/images/th_001.png
-    - url: https://raw.githubusercontent.com/2480429/iseops-romance/main/assets/images/003.png
-      image: assets/images/003.png
-    - url: https://raw.githubusercontent.com/2480429/iseops-romance/main/assets/images/004.png
-      image: assets/images/th_004.png
+    - url: https://raw.githubusercontent.com/2480429/iseops-romance/main/assets/images/001.jpeg
+      image: assets/images/th_001.jpeg
